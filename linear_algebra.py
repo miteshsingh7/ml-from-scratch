@@ -71,3 +71,5 @@ assert round(cosine_similarity([1,2], [10,20]), 5) == 1.0
 
 
 # math note (1)
+
+# math note (2)
